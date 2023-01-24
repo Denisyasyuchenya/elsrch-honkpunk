@@ -1,0 +1,16 @@
+{
+  "name": "elsrch-honkpunk",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "ElasticSearch client for time checking. Ver: 0.0.1-Goose Bait",
+  "main": "search.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Denis Yasyuchenya", 
+  "license": "ISC",
+  "dependencies": {
+    "@elastic/elasticsearch": "^7.17.0"
+  }
+}
